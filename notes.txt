@@ -1,0 +1,12 @@
+ git init - to initilaize the empty git repository in current working store_mall_directory
+
+ git add . - to add all the files to that directory of staging area which are present in pwd.
+
+ staging area :These files are also referred to as "untracked files." Staging area is files that are 
+ going to be a part of the next commit, which lets git know what changes in the file are going to occur 
+ for the next commit.
+The repository contains all of a project's commits.
+
+ git status  - to know the status 
+
+ git commit -m 'message'   - to commit the changes to the git repo.
