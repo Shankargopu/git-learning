@@ -13,4 +13,8 @@ The repository contains all of a project's commits.
 
  git log --oneline     - shows us a breif log of commits
 
- 
+
+git checkout [commit number] [filename]    - to get pervious version of the file
+
+ex: git checkout 60fe9df index.html
+
