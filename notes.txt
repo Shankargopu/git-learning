@@ -10,3 +10,7 @@ The repository contains all of a project's commits.
  git status  - to know the status 
 
  git commit -m 'message'   - to commit the changes to the git repo.
+
+ git log --oneline     - shows us a breif log of commits
+
+ 
